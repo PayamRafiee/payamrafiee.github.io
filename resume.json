@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Payam Rafiee",
+    "label": "Full-Stack Developer | Blockchain Developer | Mathematician",
+    "picture": "https://avatars0.githubusercontent.com/u/7813611?s=400&u=5cf5c55c143398b35a889753788cf5a6d53c3b61&v=4",
+    "email": "payam.rafiee@gmail.com",
+    "phone": "(90) 536 926 9145",
+    "website": "https://payamrafiee.github.io/",
+    "summary": "Payam Rafiee graduated in Mathematics from Shiraz University, Intrested in working with new Tech for developing Software Applications.",
+    "location": {
+      "address": "Antalya, Turkey",
+      "postalCode": "1231",
+      "city": "Antalya",
+      "countryCode": "TU",
+      "region": "Antalya"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "PayamRafiee",
+        "url": "https://twitter.com/PayamRafiee"
+      },
+      {
+        "network": "Linkedin",
+        "username": "PayamRafiee",
+        "url": "https://ca.linkedin.com/in/PayamRafiee"
+      },
+      {
+        "network": "Github",
+        "username": "PayamRafiee",
+        "url": "https://github.com/PayamRafiee"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Daric Coin",
+      "position": "Founder",
+      "website": "",
+      "startDate": "2017-07-15",
+      "endDate": "2018-05-5",
+      "summary": "The first ICO in my country.",
+      "highlights": [
+        "Give more than 100 first aid course",
+        "Was in the red guard at the Citadel of Quebec for 5 years",
+        "Finish first position in the Crossfit competition inter-army"
+      ]
+    },
+    {
+      "company": "UpWork",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "Build numbers of Applications.",
+      "highlights": [
+        "Give more than 100 first aid course",
+        "Was in the red guard at the Citadel of Quebec for 5 years",
+        "Finish first position in the Crossfit competition inter-army"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Shiraz University",
+      "area": "Mathematics",
+      "studyType": "",
+      "startDate": "2011",
+      "endDate": "2016",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Udemy",
+      "area": "Mobile Development & Blockchain",
+      "studyType": "Online Bootcamp",
+      "startDate": "2016",
+      "endDate": "2018",
+      "gpa": "",
+      "courses": [
+        "JavaScript",
+        "React Native",
+        "Nodejs",
+        "GraphQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "institution": "freeCodeCamp",
+      "area": "Web Development",
+      "studyType": "Online Bootcamp",
+      "startDate": "2015",
+      "endDate": "2018",
+      "gpa": "",
+      "courses": [
+        "Html",
+        "Css",
+        "jQuery",
+        "React",
+        "Redux"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "DaricCoin",
+      "website": "http://dariccoin.io",
+      "summary": "The first ICO of Iran."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web & Mobile Development",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "React Native",
+        "Node",
+        "React",
+        "CSS",
+        "Html"
+      ]
+    },
+    {
+      "name": "Library/Frameworks",
+      "level": "",
+      "keywords": [
+        "Truffle",
+        "Ethereum Solidity",
+        "React Native",
+        "React",
+        "Redux",
+        "MongoDB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professionnal"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Soccer",
+        "VollyBall",
+        "Tenis",
+        "Chess"
+      ]
+    },
+    {
+      "name": "Tech",
+      "keywords": [
+        "New Technologie",
+        "Video Games"
+      ]
+    },
+    {
+      "name": "Movie",
+      "keywords": [
+        "Action",
+        "Super-Heros",
+        "Comedy"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Country",
+        "Rock"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "To Coming",
+      "reference": ""
+    }
+  ]
+}
